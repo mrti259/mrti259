@@ -2,7 +2,7 @@
 
 - 🏳️‍🌈 Pronouns: he/him 
 - 🔭 I’m currently working as .Net Web Developer at Okapii
-- 🌱 In my spare time I'd love to improved any of my skills on front-end or back-end or learn a new tech
+- 🌱 In my spare time I'd love to improved some of my skills on front-end or back-end or learn a new tech
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about anything! -->
