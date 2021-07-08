@@ -10,5 +10,5 @@
 <!--- ⚡ Fun fact: -->
 
 [![mrti259's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=mrti259&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+stats](https://github-readme-stats.vercel.app/api?username=mrti259&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&line_height=40&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrti259&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
